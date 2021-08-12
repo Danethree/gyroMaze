@@ -27,5 +27,3 @@ You control the ball with the Gyroscope sensor in your cellphone.
   
 
 
- [![Github Badge](https://img.shields.io/github/followers/{Danethree}.svg?style=social&label=Follow&maxAge=2592000
-)]() 
